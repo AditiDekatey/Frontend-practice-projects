@@ -1,0 +1,17 @@
+h1{ 
+    color:purple;
+}
+
+#header1{
+    color:green
+}
+
+.parent{
+    border:1px solid red
+}
+.child{
+    width:50%;
+    padding:20px;
+    border:2px solid green;
+    margin: auto;
+}

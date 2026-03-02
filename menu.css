@@ -1,0 +1,22 @@
+body{
+    background-color: #e0e0e0;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1,h2{
+    color:#721817
+}
+
+.center-text{
+    text-align: center;
+}
+#logo{
+    display: block;
+    margin: auto;
+}
+h2>span{
+    color:#FA9452;
+    font-size: 0.75em;
+}
+#copyright{
+    font-size: 0.75em;
+}

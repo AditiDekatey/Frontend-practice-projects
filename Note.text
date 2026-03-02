@@ -1,0 +1,56 @@
+DOM
+Tree structire/model of the objects in the HTML file .
+Browser constructs it for represntation of HTML
+All elements in the HTML file are represented as objects
+Why - To update existing content, preview or hover effects,disabling, dynamically add new content or delete (to do list),animate HTML elements
+
+Accessibilty
+WAI
+Screen reader, speech recognition,subtitles and scripts
+Structure HTML properly and follow best practices , difficult to reqoek
+Use correct HTML syntax within tags, and use tags instead of multiple <br>
+ARIA
+
+CSS Rule 
+Selector - which element to style, declaration block-
+h1{
+    color:blue
+    background-color:grey
+}
+CSS precedence and specificity
+Selectors- element,ID, Class, element with class, descendent, child, pseudo
+Colors- RGB, RGBA, Hex, HSL, predefied names
+
+CSS Box model - Content, padding, border , margin
+Calculating size
+Border box - padding box (content+padding left+padding right)+ borderleft + border right
+Shorthand notations
+
+Document flow : Web browser's normal way of Calculating position of elements
+
+Module 3 : UI Frameworks
+
+Libraries and frameworks :
+1.Code uses both libraries and frameworks, Code calls library, frameworks calls code
+2.L & F are dependencies ,and have to be included ( Bootstrap link and script tag)
+3.Using bootstrap, btn btn-primary
+4.Dependency tree- dependencies depend on other libraries and frameworks
+5.Package manager - a tool that automatically downloads and install dependencies( with specific version)
+Bundler - automatically combine all dependencies and code in a single file
+
+Responsive design
+Set of practices that allows a website to respond according to the device.
+Flexible grids - columns, gutters and margins, not pixel based , % based
+Fluid images: max-width to 100%, allows images to scale down if the column becomes narrower
+Media queries- Query the display size, orientation and aspect rules to conditionally apply css rules
+Breakpoint-point at which a website layout will adjust to give the best possible UX
+
+Bootstrap-
+Collection of pre-written CSS and JS code , allowing to create websites quickly
+Infix-
+extra small <576 small >=576, medium >=768. large >=992, xl>=1200.xxl>=1400
+
+grid
+Create web page layouts through a series of rows and columns 
+
+Bootstrap components are pre-made set of UI elements and styles
