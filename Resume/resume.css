@@ -1,0 +1,11 @@
+.multi-column{
+    display: flex;
+    justify-content: space-between;
+
+}
+.blue-text{
+    color:rgb(2, 139, 193)
+}
+.heading{
+    font-size:2rem
+}

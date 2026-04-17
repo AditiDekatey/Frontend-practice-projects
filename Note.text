@@ -54,3 +54,21 @@ grid
 Create web page layouts through a series of rows and columns 
 
 Bootstrap components are pre-made set of UI elements and styles
+
+React :
+Static and dynamic content: 
+static ( videos, images etc), dynamic ( http requests, web server sends through application servers)
+App servers serve app logic,communicate with database, check permissions
+Caching due to app server limits - A saved copy of dynamic content readily avaialbel upon request
+
+SPA-
+Unique, engaging - Social media network, messaging app, map app
+Traditional - Muliple pages, load on web server, excessive bandwidth
+SPA - One HTML Page that will update its content, not needing to download entire new pages
+2 approaches : Bundling and lazy loading- depemds on size, bandwidth and application, complexity
+Bundling - 
+
+React - SPA and Mobile 
+Navigation, Requesting data
+Writing less codeto create functionality, simplifies testing
+Defining components that you combine to create app - small piece of user interface ( Isolated dev, Isolated testing and resuing components)
