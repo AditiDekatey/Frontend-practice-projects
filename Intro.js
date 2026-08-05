@@ -20,4 +20,24 @@ Comments - Express ideas, add to someone else code, team members, to dos , to im
 Data types - String, Number, Boolean, Null, Undefined, BigInt, Symbol
 
 */
-console.log('Hello World')
+// for (var firstNum = 0; firstNum < 2; firstNum++){
+//     console.log(firstNum);
+//     for (var secondNum = 0; secondNum < 10; secondNum++){
+//         console.log(firstNum, "*" ,secondNum,"=",firstNum *secondNum )
+//     }
+// }
+
+// function listArrayItems(arr) {
+//     for (var i = 0; i < arr.length; i++){
+//         if (arr[i] == "red") {
+//             console.log(i * 100, "tomato!")
+//         } else {
+//             console.log(i + 1, arr[i])
+//         }
+//     }
+// }
+// var colors = ["red", "green", "orange", "yellow"]
+// listArrayItems(colors)
+
+//var, let, const
+    q2
